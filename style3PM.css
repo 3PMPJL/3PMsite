@@ -1,0 +1,64 @@
+h1
+{
+	color : black;
+	font-family: "comic sans ms", sans-serif;
+}
+
+body
+{
+	
+	background-image: url("soldier.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center;
+	opacity: 0.9;
+}
+
+#carte
+{
+	width: 600px;
+	margin: 0 auto;
+	/*background-color: white;*/
+	/*background-image: url("3PMcie.jpg");*/
+	text-align: center;
+	align-content: center;
+	opacity: 1;
+}
+
+#carte2
+{
+	width:  600px;
+	margin:  0 auto;
+	background-color: yellowgreen;
+	text-align: left;
+	align-content: center;
+
+
+}
+#menu
+{
+	position: relative;
+	top: 150px;
+	left: 200px ;
+	width: 100px;
+	margin: 0 auto;
+	text-align: center;
+	align-content: center;
+}
+
+#identification
+{
+	position: relative;
+	top: 150px;
+	left: 120px ;
+	width: 100px;
+	margin: 0 auto;
+	text-align: left;
+	align-content: center;
+}
+p
+{
+	color: darkblue;
+	font-size: large;
+	text-align: left;
+}
